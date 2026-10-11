@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mazadat-alsaudia.netlify.app/sitemap.xml
